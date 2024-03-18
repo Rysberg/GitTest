@@ -1,3 +1,5 @@
 Dette er min tekst fil
 
 Hilsen emil
+
+ekstra tekst
